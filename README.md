@@ -4,6 +4,8 @@ Me chamo Diego Reis, tenho 18 anos e moro no Rio de Janeiro.
 
 Estudo React através de alguns projetos pessoais que desenvolvo, afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades na mesma.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
+
 ## - 🕹️ Meu trabalho
 
 Atualmente sou desenvolvedor Delphi e SQLServer na empresa neoSyx Development, onde também atuo como analista, realizando o levantamento de requisitos, reuniões junto ao cliente para entendimento de necessidades e análise de projetos.
