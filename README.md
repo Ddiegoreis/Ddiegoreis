@@ -23,4 +23,4 @@ Atualmente sou desenvolvedor Delphi e SQLServer na empresa neoSyx Development, o
 
 ## - 📫 Linkedin
 
-[![Linkedin Badge](https://img.shields.io/badge/dogaoruc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ddiegoreis/)
+[Linkedin](https://www.linkedin.com/in/ddiegoreis/)
