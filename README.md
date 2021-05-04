@@ -10,7 +10,7 @@ Estudo React através de alguns projetos pessoais que desenvolvo, afim de aprend
 
 ## - 🕹️ Meu trabalho
 
-Atualmente sou desenvolvedor Delphi e SQLServer na empresa neoSyx Development, onde também atuo como analista, realizando o levantamento de requisitos, reuniões junto ao cliente para entendimento de necessidades e análise de projetos.
+Atualmente sou desenvolvedor Delphi na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de sistemas financeiros e contábeis.
 
 ## - 🧠 Tecnologias
 
