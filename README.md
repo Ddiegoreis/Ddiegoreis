@@ -23,3 +23,5 @@ Atualmente sou desenvolvedor Delphi na empresa Nasajon Sistemas, onde realizo o 
 ## - 📫 Linkedin
 
 [Linkedin](https://www.linkedin.com/in/ddiegoreis/)
+
+![Snake animation](https://github.com/Ddiegoreis/Ddiegoreis/blob/output/github-contribution-grid-snake.svg)
