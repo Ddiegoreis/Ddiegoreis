@@ -2,15 +2,15 @@
 
 # 🙋‍♂️ Hello world !
 
-Me chamo Diego Reis, tenho 18 anos e moro no Rio de Janeiro.
+Me chamo Diego Reis, tenho 19 anos e moro no Rio de Janeiro.
 
-Estudo React através de alguns projetos pessoais que desenvolvo, afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades na mesma.
+Estudo React e Node.Js através de alguns projetos pessoais que desenvolvo, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades nas mesmas.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
 
 ## - 🕹️ Meu trabalho
 
-Atualmente sou desenvolvedor Delphi na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de sistemas de erp.
+Atualmente sou desenvolvedor Delphi, PHP e SQL na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de um sistema ERP e criação de API's de integração.
 
 ## - 🧠 Tecnologias
 
@@ -18,6 +18,7 @@ Atualmente sou desenvolvedor Delphi na empresa Nasajon Sistemas, onde realizo o 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## - 📫 Linkedin
