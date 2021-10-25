@@ -10,7 +10,7 @@ Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor desktop na
 
 ## - 🕹️ Meu trabalho
 
-Atualmente sou desenvolvedor Delphi, PHP e SQL na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de um sistema ERP e criação de API's de integração.
+Atualmente sou desenvolvedor Delphi e PHP na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de um sistema ERP - Financeiro e criação de API's de integração bancária.
 
 ## - 🧠 Tecnologias
 
