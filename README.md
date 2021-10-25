@@ -22,6 +22,10 @@ Atualmente sou desenvolvedor Delphi e PHP na empresa Nasajon Sistemas, onde real
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## - :computer: Sistema Operacional
+
+O sistema operacional principal que utilizo é Ubuntu 20.04LTS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+
 ## - 📫 Linkedin
 
 [Linkedin](https://www.linkedin.com/in/ddiegoreis/)
