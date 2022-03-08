@@ -10,10 +10,12 @@ Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor desktop na
 
 ## - 🕹️ Meu trabalho
 
-Atualmente sou desenvolvedor Delphi e PHP na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de um sistema ERP - Financeiro e criação de API's de integração bancária.
+Atualmente sou programador júnior na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de um sistema ERP - Financeiro e criação de API's de integração bancária utilizando C#, Php, Delphi e SQL-Server.
 
 ## - 🧠 Tecnologias
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -21,10 +23,6 @@ Atualmente sou desenvolvedor Delphi e PHP na empresa Nasajon Sistemas, onde real
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-## - :computer: Sistema Operacional
-
-O sistema operacional principal que utilizo é Ubuntu 20.04LTS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
 ## - 📫 Linkedin
 
