@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Hello world !
 
-Me chamo Diego Reis, tenho 19 anos e moro no Rio de Janeiro.
+Me chamo Diego Reis, tenho 20 anos e moro no Rio de Janeiro.
 
 Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor desktop na empresa Nasajon Sistemas e estudo React e Node.Js através de alguns projetos pessoais que desenvolvo, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades nas mesmas.
 
