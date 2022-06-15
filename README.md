@@ -8,10 +8,6 @@ Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor Backend na
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
 
-## - 🕹️ Meu trabalho
-
-Atualmente sou programador júnior na empresa Nasajon Sistemas, onde realizo o desenvolvimento/manutenção de um sistema ERP - Financeiro e criação de API's de integração bancária utilizando C#, Php, Delphi e SQL-Server.
-
 ## - 🧠 Tecnologias
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
