@@ -4,7 +4,7 @@
 
 Me chamo Diego Reis, tenho 20 anos e moro no Rio de Janeiro.
 
-Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor desktop na empresa Nasajon Sistemas e estudo React e Node.Js através de alguns projetos pessoais que desenvolvo, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades nas mesmas.
+Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor Backend na empresa Junto Seguros.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
 
