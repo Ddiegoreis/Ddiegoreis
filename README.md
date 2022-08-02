@@ -4,7 +4,7 @@
 
 Me chamo Diego Reis, tenho 20 anos e moro no Rio de Janeiro.
 
-Atualmente curso Ciências da Computação na IBMR, sou desenvolvedor Backend na empresa Junto Seguros.
+Atualmente curso Ciências da Computação na IBMR e sou desenvolvedor Backend na empresa Junto Seguros.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
 
