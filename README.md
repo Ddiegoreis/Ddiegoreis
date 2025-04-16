@@ -10,7 +10,7 @@ Atualmente curso Ciências da Computação na IBMR e sou desenvolvedor Backend n
 
 ## - 🕹️ Meu trabalho
 
-Atualmente sou desenvolvedor Back-end na empresa Junto Seguros, onde realizo o desenvolvimento/manutenção de um sistema de emissão utilizando C# com ASP NET.
+Atualmente sou desenvolvedor Back-end na empresa Junto Seguros.
 
 ## - 🧠 Tecnologias
 
