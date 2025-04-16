@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Hello world !
 
-Me chamo Diego Reis, tenho 20 anos e moro no Rio de Janeiro.
+Me chamo Diego Reis, tenho 22 anos e moro no Rio de Janeiro.
 
 Atualmente curso Ciências da Computação na IBMR e sou desenvolvedor Backend na empresa Junto Seguros.
 
