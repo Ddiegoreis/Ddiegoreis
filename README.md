@@ -1,31 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+# 👋 Olá! Eu sou o Diego Reis
 
-# 🙋‍♂️ Hello world !
+Sou um engenheiro de software pleno com 22 anos, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da progranação.
 
-Me chamo Diego Reis, tenho 22 anos e moro no Rio de Janeiro.
+## 🚀 Tecnologias e Ferramentas
 
-Atualmente curso Ciências da Computação na IBMR e sou desenvolvedor Backend na empresa Junto Seguros.
+Atualmente, atuo com um stack focado em backend robusto e frontend responsivo:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
+- 💻 Backend: `.NET`, `ASP.NET`, `Node.js`, `NestJS`
+- 🌐 Frontend: `React`
+- 🗄️ Bancos de dados: `SQL Server`, `PostgreSQL`, `MongoDB`
 
-## - 🕹️ Meu trabalho
+## 💼 Sobre mim
 
-Atualmente sou desenvolvedor Back-end na empresa Junto Seguros.
+- 🎯 Sempre em busca de melhorar a performance das aplicações e a qualidade do código
+- 🧠 Curioso por boas práticas, arquitetura limpa e padrões de projeto
+- 🤝 Aberto a colaborações em projetos interessantes e desafiadores
 
-## - 🧠 Tecnologias
+## 📫 Vamos nos conectar!
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+- LinkedIn: [linkedin.com/in/ddiegoreis](https://linkedin.com/in/ddiegoreis)
+- E-mail: diego.valga13@gmail.com
 
-## - 📫 Linkedin
+---
 
-[Linkedin](https://www.linkedin.com/in/ddiegoreis/)
-
-![Snake animation](https://github.com/Ddiegoreis/Ddiegoreis/blob/output/github-contribution-grid-snake.svg)
+> “Código limpo é como humor – quando você tem que explicar, não é tão bom.” – *Martin Fowler*
