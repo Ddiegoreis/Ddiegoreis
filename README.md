@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Diego Reis
 
-Sou um engenheiro de software pleno com 22 anos, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da progranação.
+Sou Engenheiro de software pleno, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da progranação.
 
 ## 🚀 Tecnologias e Ferramentas
 
