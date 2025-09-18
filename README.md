@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Diego Reis
+# 👋 Olá! Eu sou Diego Reis
 
 Sou Engenheiro de software pleno, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da progranação.
 
