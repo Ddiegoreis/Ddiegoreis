@@ -19,7 +19,6 @@ Atualmente, atuo com um stack focado em backend robusto e frontend responsivo:
 ## 📫 Vamos nos conectar!
 
 - LinkedIn: [linkedin.com/in/ddiegoreis](https://linkedin.com/in/ddiegoreis)
-- E-mail: diego.valga13@gmail.com
 
 ---
 
