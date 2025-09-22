@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Diego Reis
 
-Sou Engenheiro de software pleno, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da progranação.
+Sou Engenheiro de software pleno, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da programação.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -22,4 +22,4 @@ Atualmente, atuo com um stack focado em backend robusto e frontend responsivo:
 
 ---
 
-> “Código limpo é como humor – quando você tem que explicar, não é tão bom.” – *Martin Fowler*
+> “Código limpo é como humor – quando você tem que explicar, não é tão bom.”
