@@ -10,12 +10,6 @@ Atualmente, atuo com um stack focado em backend robusto e frontend responsivo:
 - 🌐 Frontend: `React`
 - 🗄️ Bancos de dados: `SQL Server`, `PostgreSQL`, `MongoDB`
 
-## 💼 Sobre mim
-
-- 🎯 Sempre em busca de melhorar a performance das aplicações e a qualidade do código
-- 🧠 Curioso por boas práticas, arquitetura limpa e padrões de projeto
-- 🤝 Aberto a colaborações em projetos interessantes e desafiadores
-
 ## 📫 Vamos nos conectar!
 
 - LinkedIn: [linkedin.com/in/ddiegoreis](https://linkedin.com/in/ddiegoreis)
