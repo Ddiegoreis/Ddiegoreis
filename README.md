@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Diego Reis
 
-Sou Engenheiro de software pleno, moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da programação.
+Sou Engenheiro de software e moro no Rio de Janeiro 🇧🇷. Tenho paixão por transformar ideias em soluções através da programação.
 
 ## 🚀 Tecnologias e Ferramentas
 
